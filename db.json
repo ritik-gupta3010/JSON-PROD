@@ -1,0 +1,62 @@
+{
+    "post": [
+      {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bachalpsee_reflection.jpg",
+        "desc": "post 1",
+        "location": "post 1",
+        "like": true
+      },
+      {
+        "id": 2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+        "desc": "ritik",
+        "location": "post 2",
+        "like": true
+      },
+      {
+        "id": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_mapourika_NZ.jpeg",
+        "desc": "post 3",
+        "location": "post 3",
+        "like": true
+      },
+      {
+        "id": 5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ocean_from_Leblon.jpg",
+        "desc": "http://localhost:3000/likePosthttp://localhost:3000/likePosthttp://localhost:3000/likePosthttp://localhost:3000/likePosthttp://localhost:3000/likePosthttp://localhost:3000/likePost",
+        "location": "post 5",
+        "like": true
+      },
+      {
+        "id": 6,
+        "desc": "new post",
+        "img": "https://png.pngtree.com/background/20210709/original/pngtree-tanabata-valentines-day-romantic-creative-synthesis-picture-image_917725.jpg",
+        "location": "manali",
+        "like": false
+      },
+      {
+        "desc": "new post",
+        "location": "shimla",
+        "img": "https://png.pngtree.com/background/20210709/original/pngtree-tanabata-valentines-day-romantic-creative-synthesis-picture-image_917725.jpg",
+        "like": false,
+        "id": 7
+      },
+      {
+        "id": 8,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+        "desc": "wow",
+        "location": "wow",
+        "like": true
+      },
+      {
+        "desc": "ritik ",
+        "location": "mathura",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/640px-Image_created_with_a_mobile_phone.png",
+        "like": false,
+        "id": 9
+      }
+    ],
+    "savePost": [],
+    "likePost": []
+  }
